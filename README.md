@@ -5,7 +5,7 @@
 **eversonnogueira/eversonnogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Olá, me chamo Everson Nogueira ! 
-## Bem vindo ao meu perfil GitHub 👋👋
+## Bem vindo ao meu perfil GitHub 👋
 ### Hello, Devs!!
 
 - 📔 Atualmente estou aprendendo HTML5, CSS3, JavaScript ...
