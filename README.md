@@ -2,7 +2,7 @@
 
 <!--
 **eversonnogueira/eversonnogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 # Olá, me chamo Everson Nogueira ! 
 ## Bem vindo ao meu perfil GitHub 👋👋
 ## Hello, Devs!!
@@ -11,7 +11,7 @@
 - 📫 Como entrar em contato comigo: codenogueira@gmail.com
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
--->
+
 
 ## Ferramentas e Tecnologias
 
